@@ -6,7 +6,7 @@
 # from .dqn_run_task1 import run_all_actions
 
 # Task 2
-# from .nn_newest_simulation_task2 import reinforcement_learning
+# from .nn_newest_simulation_training_task2 import reinforcement_learning
 
 # from .nn_newest_hardware_task2 import reinforcement_learning
 
